@@ -1,3 +1,4 @@
 # myRoadMapDev
 
-Meu mapa para aprender a ser um desenvolvedor backend. Disponibilizarei projetos relacionado aos meus estudos, mapeando o meu desenvolvimento na área de tecnologia.
+My map to learn how to be a backend developer. I will make available projects related to my studies, mapping my development in the technology area.
+
